@@ -1,14 +1,4 @@
-Here is a **clean, professional, production-ready `README.md`** for your SaaS startup **“Dale Dai”**.  
-You can copy–paste directly into your GitHub repo.
 
----
-
-# 📄 **README.md — Dale Dai (दले दाइ)**  
-*A Service-Based SaaS Platform Helping Nepali People Work Abroad*
-
----
-
-```markdown
 # 🌏 Dale Dai — Your Trusted Abroad Guide 🇳🇵  
 *A Service-Based SaaS App for Nepali Job Seekers Going to Asian & European Countries*
 
@@ -183,17 +173,3 @@ This project is licensed under the **MIT License**.
 
 ### 🇳🇵 *Dale Dai — दले दाइ*  
 **“Your trusted digital brother for working abroad.”**
-```
-
----
-
-If you want, I can also generate:
-
-✅ Logo ideas  
-✅ Figma-style UI using React components  
-✅ Full database schema  
-✅ API routes design  
-✅ Marketing landing page copy  
-✅ Folder structure (frontend + backend + SaaS billing)
-
-Just tell me!
